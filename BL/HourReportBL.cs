@@ -38,7 +38,6 @@ namespace DAL
             _context.HoursReport.Add(new HoursReport() { FromDateTime = hoursReportRequest.FromDateTime, ToDateTime = hoursReportRequest.ToDateTime, UserId = hoursReportRequest.UserId, ProjectId = hoursReportRequest.ProjectId });
             _context.SaveChanges();
             return true;
-            //CreatedAtAction("GetUser", new { id = user.Id }, user);
         }
     }
 }

@@ -1,26 +1,5 @@
 ﻿
-/*using DAL;
-using Microsoft.AspNetCore.Mvc;
 
-namespace MyProjServer.Controllers
-{
-    [ApiController]
-    [Route("[api/HoursReport]")]
-    public class HouerReportController : ControllerBase
-    {
-
-        [HttpGet(Name = "GetHoursConcentration")]
-
-        public IEnumerable<HoursReport> GetHoursConcentration()
-        {
-            return HourReportBL.GetHoursConcentration();
-        }
-
-
-       
-
-    }
-}*/
 
 
 using DAL;

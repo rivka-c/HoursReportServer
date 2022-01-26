@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vo5S9NInPNrGRFLs1jKKYUJiIRZqCvbBWQQ4kFttitsIrt24xx70I75+DDJw06bEVUONXIf2/nlFETecXFhtXw==",
+  "dgSpecHash": "DvDcjWo/gRUywWgxOfdrDul2uknEczb0D2j6fnlUb2RDe195wE+yHmmC8Tqn7HVi6B6Rn+LHuc8ifB2GO+xeng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\MyProjServer\\MyProjServer\\MyProjServer.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\HoursReportServer\\MyProjServer\\MyProjServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnet.cors\\5.2.7\\microsoft.aspnet.cors.5.2.7.nupkg.sha512",

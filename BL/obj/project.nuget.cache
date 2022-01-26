@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Rrja9XEmre7FHYi6/1beijKLeZTfSY6mZhm9QHyGLXsnJL8sWXwVKT/IigTesJCXva1GI0lmq3GvvULUwCmrw==",
+  "dgSpecHash": "hPC5jOnzDtoLO2Xza/e9VbQGgV30ZCLqDpuB0UUXUWlJHn0Mal1aLzG+RmhY+SOSsN8xwIGFCfczNMOh3qx5fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\MyProjServer\\BL\\BL.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\HoursReportServer\\BL\\BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",

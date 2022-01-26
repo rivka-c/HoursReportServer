@@ -5407,11 +5407,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\MyProjServer\\MyProjServer\\MyProjServer.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\HoursReportServer\\MyProjServer\\MyProjServer.csproj",
       "projectName": "MyProjServer",
-      "projectPath": "C:\\Users\\user\\Desktop\\MyProjServer\\MyProjServer\\MyProjServer.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\HoursReportServer\\MyProjServer\\MyProjServer.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\MyProjServer\\MyProjServer\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\HoursReportServer\\MyProjServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5428,11 +5428,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\Desktop\\MyProjServer\\BL\\BL.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\MyProjServer\\BL\\BL.csproj"
+            "C:\\Users\\user\\Documents\\GitHub\\HoursReportServer\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\GitHub\\HoursReportServer\\BL\\BL.csproj"
             },
-            "C:\\Users\\user\\Desktop\\MyProjServer\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\MyProjServer\\DAL\\DAL.csproj"
+            "C:\\Users\\user\\Documents\\GitHub\\HoursReportServer\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\GitHub\\HoursReportServer\\DAL\\DAL.csproj"
             }
           }
         }
